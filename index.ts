@@ -10,5 +10,8 @@ serve((req) => new Response("Hello World by Typescript\n"), { port: 8000 });
 window.fetch('https://pokeapi.co/api/v2/pokemon/5')
     .then(response => response.json())
     .then(data => {
-        console.log(data.name);
+
+        localStorage.setItem('name', data.name);
+
+
     });

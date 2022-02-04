@@ -2,6 +2,8 @@
 
 ## Un tiempo de ejecución moderno para JavaScript y TypeScript v1.8.2
 
+## Manual de instalación -> https://deno.land/manual
+
 # Diferencias de node
 
 - no se usa npm
