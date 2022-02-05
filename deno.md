@@ -36,3 +36,7 @@ deno fmt index.ts
 ### Instalacion de modulos desde su Deno Manual
 
 - rambda
+
+# Deploy en dino
+
+- https://deno.com/deploy
