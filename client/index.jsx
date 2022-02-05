@@ -1,4 +1,4 @@
-import { App } from "../src/index.jsx";
+import { App } from "./01-deno/index.jsx";
 
 ReactDOM.hydrate(
   <App pathname={window.location.pathname} />,
